@@ -12,3 +12,5 @@ https://rprice000.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Reagan Price
+
+### ©️2019 Run Buddy, Inc
